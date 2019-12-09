@@ -2,9 +2,11 @@
 Requirements
  - Python 3.*
 
-for install python on you OS you need execute 
+for install python on you OS you need execute.
+
 Mac OS: 
 - " brew install python3 "
+
 Linux: 
 - CentOS  " sudo yum install python3 "
 - Ubuntu/Debian " sudo apt-get update "
