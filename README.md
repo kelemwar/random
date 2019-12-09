@@ -13,6 +13,7 @@ Linux:
                 " sudo apt-get install python3.6 "
 
 
+
 1. Download "rnd.py
 2. to run the script, you must run the command  " python ./rnd.py "
 
